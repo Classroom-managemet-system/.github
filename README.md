@@ -1,5 +1,7 @@
 <h1 align="center">
-  🎓 Classroom Management System
+  🌟✨ <span style="color:#0047AB">C</span><span style="color:#005BBB">l</span><span style="color:#007FFF">a</span><span style="color:#00BFFF">s</span><span style="color:#1E90FF">s</span><span style="color:#4169E1">r</span><span style="color:#4B0082">o</span><span style="color:#6A5ACD">o</span><span style="color:#7B68EE">m</span> 
+  <span style="color:#483D8B">M</span><span style="color:#191970">a</span><span style="color:#000080">n</span><span style="color:#00008B">a</span><span style="color:#0000CD">g</span><span style="color:#0000FF">e</span><span style="color:#1E90FF">m</span><span style="color:#00BFFF">e</span><span style="color:#87CEFA">n</span><span style="color:#ADD8E6">t</span> 
+  🌈💫
   <br/>
   <img src="https://img.shields.io/badge/Faculty%20of%20Engineering-KDU-darkblue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FoE KDU">
 </h1>
@@ -14,12 +16,6 @@
   A modern classroom and timetable management system for the Faculty of Engineering, <br/>
   General Sir John Kotelawala Defence University (KDU), Sri Lanka.
 </p>
-
----
-
-## 🌌 Dark Theme Preview
-
-![Dark Blue Banner](https://via.placeholder.com/1000x200/0d1b2a/ffffff?text=Faculty+of+Engineering+Classroom+Management+System)
 
 ---
 
