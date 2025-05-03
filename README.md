@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/CLASSROOM%20MANAGEMENT%20SYSTEM-darkblue?style=for-the-badge&logo=googleclassroom&logoColor=white&color=1E3A8A&labelColor=3B82F6">
-</p>
+<h1 align="center">
+  🎓 Classroom Management System
   <br/>
   <img src="https://img.shields.io/badge/Faculty%20of%20Engineering-KDU-darkblue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FoE KDU">
 </h1>
